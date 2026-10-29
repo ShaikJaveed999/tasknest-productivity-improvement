@@ -142,11 +142,15 @@ Pending. No verified deployment URL.
 
 ## 21. GitHub repository
 
-Pending. The provided workspace initially had no Git metadata. The implementation is committed locally on `main` at `c435a3a4d041b972ebabf236f57abfc410ae6681`. GitHub CLI is not authenticated, so no remote repository has been created or pushed.
+Repository: https://github.com/ShaikJaveed999/tasknest-productivity-improvement
+
+The implementation was pushed to `feature/productivity-score-improvement`. Its PR targets `main`. The original local commits are retained on the local `local-submission-history` branch; the published feature branch contains the completed project snapshot.
 
 ## 22. Pull Request
 
-Pending. A GitHub PR cannot be created until an authenticated account and repository are available. No PR URL is claimed.
+Pull Request: https://github.com/ShaikJaveed999/tasknest-productivity-improvement/pull/1
+
+The PR was created in the new personal repository from `feature/productivity-score-improvement` into `main`. It is not a PR against the Kalvium upstream repository.
 
 ## 23. Video explanation
 
